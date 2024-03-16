@@ -29,3 +29,5 @@ git checkout -b finished_project
 git branch
 git push https://github.com/samanTheCoder/learn-salon-appointment-scheduler
 __vsc_prompt_cmd_original
+git push https://github.com/samanTheCoder/learn-salon-appointment-scheduler
+git commit -m 'finished_project'
