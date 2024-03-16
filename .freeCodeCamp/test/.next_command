@@ -21,3 +21,11 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 git push master
 clear
+git branch
+git push
+git push --set-upstream origin main
+clear
+git checkout -b finished_project
+git branch
+git push https://github.com/samanTheCoder/learn-salon-appointment-scheduler
+__vsc_prompt_cmd_original
